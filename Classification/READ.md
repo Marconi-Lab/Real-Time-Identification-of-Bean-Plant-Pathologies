@@ -20,7 +20,7 @@ pip install tensorflow matplotlib numpy seaborn
 python custom_classication_model.py --mode train
 
 #Use this command to inference or evaluate the classification model
-python custom_classication_model.py.py --mode evaluate
+python custom_classication_model.py --mode evaluate
 
 # EfficientNetV2
 
