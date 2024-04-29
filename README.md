@@ -1,10 +1,10 @@
 # Real-Time-Identification-of-Bean-Plant-Pathologies
 
-This repository is dedicated to the development of machine learning models for the precise in-field identification of bean diseases in Uganda. Leveraging state-of-the-art Convolutional Neural Network (CNN) architectures, this project aims to tackle significant agricultural challenges by improving the detection and management of key bean diseases, such as Angular Leaf Spot (ALS) and bean rust, using smartphone images.
+This repository is dedicated to developing machine learning models for the precise in-field identification of bean diseases in Uganda. Leveraging state-of-the-art Convolutional Neural Network (CNN) architectures, this project aims to tackle significant agricultural challenges by improving the detection and management of key bean diseases, such as Angular Leaf Spot (ALS) and bean rust, using smartphone images.
 
 ## Project Overview
 
-Beans are a staple crop globally, crucial for nutrition and food security. However, their cultivation is hindered by several factors including diseases, which can severely impact yield quality and quantity, leading to substantial economic losses. This project utilizes the Makerere University beans image dataset, which includes 15,335 images across three classes: ALS, bean rust, and healthy. To enhance the model's robustness, the dataset was expanded with an "unknown" class, comprising 2,800 additional images.
+Beans are a staple crop globally, crucial for nutrition and food security. However, several factors, including diseases, hinder their cultivation, which can severely impact yield quality and quantity, leading to substantial economic losses. This project utilizes the Makerere University beans image dataset, which includes 15,335 images across three classes: ALS, bean rust, and healthy. To enhance the model's robustness, the dataset was expanded with an "unknown" class, comprising 2,800 additional images.
 
 ### Key Results
 
