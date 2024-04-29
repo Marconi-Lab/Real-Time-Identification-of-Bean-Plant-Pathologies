@@ -1,6 +1,6 @@
 # Image Classification Models
 
-This folder contains TensorFlow implementations of three advanced convolutional neural network models for image classification: EfficientNetV2, ResNetV2, and MobileNetV3, plus the BeanWatchNet model. These scripts are designed to be run from the command line, allowing for straightforward training and evaluation.
+This folder contains TensorFlow implementations of three advanced convolutional neural network models for image classification: EfficientNetV2, ResNetV2, and MobileNetV3, plus the BeanWatchNet model. These scripts are designed to be run from the command line, allowing for straightforward training and evaluation. The BeanWatchNet actual trained models are also attached as a release on this repo.
 
 ## Setup
 
