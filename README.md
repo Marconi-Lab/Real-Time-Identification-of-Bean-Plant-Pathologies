@@ -21,4 +21,4 @@ Beans are a staple crop globally, crucial for nutrition and food security. Howev
 
 ### Prerequisites
 
-Ensure you have Python installed, along with TensorFlow and other necessary libraries:
+Ensure you have Python installed, along with TensorFlow and other necessary libraries. It is also highly advised to use a Docker container. 
