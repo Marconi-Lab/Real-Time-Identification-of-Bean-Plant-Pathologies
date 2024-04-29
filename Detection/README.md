@@ -9,4 +9,4 @@ For optimal training and evaluation of these models, you should follow their mai
 - **YOLO v8:** [V8](https://github.com/ultralytics/ultralytics)
 - **YOLO NAS:** [NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)
 - **YOLO v9:** [V9](https://github.com/ultralytics/ultralytics)
-- **DETR:** [DER](https://github.com/facebookresearch/detr)
+- **DETR:** [DETR](https://github.com/facebookresearch/detr)
