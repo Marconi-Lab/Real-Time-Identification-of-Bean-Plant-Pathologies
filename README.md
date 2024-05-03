@@ -16,7 +16,9 @@ Beans are a staple crop globally, crucial for nutrition and food security. Howev
 
 - `Classification/`: Contains scripts and trained models for image classification.
 - `Detection/`: Contains scripts and trained models for object detection.
-- `Dataset`: The dataset used for this project is published on HARVARD Dataverse [here](https://doi.org/10.7910/DVN/WFSLBY). 
+
+## Additional Files
+`Dataset`: The dataset used for this project is published on HARVARD Dataverse [here](https://doi.org/10.7910/DVN/WFSLBY). 
 
 ## Getting Started
 
